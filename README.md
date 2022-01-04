@@ -1,2 +1,2 @@
-# SharedSitecore.Fields.Actions.RegisterUser
+# Shared.SharedSitecore.Fields.Actions.RegisterUser
 Sitecore Forms RegisterUser Action
